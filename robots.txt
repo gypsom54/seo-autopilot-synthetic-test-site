@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gypsom54.github.io/seo-autopilot-synthetic-test-site/sitemap.xml
